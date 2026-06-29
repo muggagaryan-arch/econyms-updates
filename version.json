@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.2.0",
-  "apkUrl": "https://github.com/muggagaryan-arch/econyms-updates/releases/download/v1.2.0/econyms_1.2.0.apk",
+  "latestVersion": "1.2.3",
+  "apkUrl": "https://github.com/muggagaryan-arch/econyms-updates/releases/download/v1.2.3/econyms_1.2.3.apk",
   "releaseNotes": [
-    "New update system – you can now update the app without leaving it.",
-    "Improved lesson progress tracking.",
-    "Bug fixes and performance improvements."
+    "Updated in‑app updater test.",
+    "Minor improvements."
   ]
 }
