@@ -18,6 +18,11 @@ You can **verify the APK yourself**:
 2. Compare its SHA‑256 hash with the one listed in the release notes.
 3. Build the app from source by following the instructions below.
 
+## 📜 License
+This source code is provided **for educational and review purposes only**.  
+You may not modify, redistribute, or build derivative works for public distribution without explicit permission.  
+The "Econyms" name and branding remain the sole property of the developer.
+
 ## 🛠 Building from Source
 1. Install [Flutter](https://flutter.dev) and [Android Studio](https://developer.android.com/studio).
 2. Clone this repo: `git clone https://github.com/muggagaryan-arch/econyms-updates.git`
